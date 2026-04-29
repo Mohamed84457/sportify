@@ -244,7 +244,7 @@ export default function LoginPage() {
                 <p className="text-sm text-zinc-400">
                   Don&apos;t have an account?
                   <Link
-                    href="/register"
+                    href="/Register"
                     className="ml-2 font-semibold text-green-400 transition-colors hover:text-green-300"
                   >
                     Register
